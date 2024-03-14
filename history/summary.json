@@ -4,19 +4,19 @@
     "url": "https://mydq.islam.gov.my/",
     "icon": "https://icons.duckduckgo.com/ip3/mydq.islam.gov.my.ico",
     "slug": "jakim-my-dq",
-    "status": "down",
-    "uptime": "99.49%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "99.49%",
-    "time": 1410,
-    "timeDay": 1410,
-    "timeWeek": 1410,
-    "timeMonth": 1410,
-    "timeYear": 1410,
+    "status": "up",
+    "uptime": "86.68%",
+    "uptimeDay": "86.68%",
+    "uptimeWeek": "86.68%",
+    "uptimeMonth": "86.68%",
+    "uptimeYear": "86.68%",
+    "time": 1512,
+    "timeDay": 1512,
+    "timeWeek": 1512,
+    "timeMonth": 1512,
+    "timeYear": 1512,
     "dailyMinutesDown": {
-      "2024-03-14": 0
+      "2024-03-14": 10
     }
   },
   {
