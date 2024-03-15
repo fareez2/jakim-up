@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1512,
-    "timeDay": 1512,
-    "timeWeek": 1512,
-    "timeMonth": 1512,
-    "timeYear": 1512,
+    "time": 1367,
+    "timeDay": 1367,
+    "timeWeek": 1367,
+    "timeMonth": 1367,
+    "timeYear": 1367,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.e-solat.gov.my.ico",
     "slug": "e-solat",
     "status": "up",
-    "uptime": "96.60%",
-    "uptimeDay": "96.60%",
-    "uptimeWeek": "96.60%",
-    "uptimeMonth": "96.60%",
-    "uptimeYear": "96.60%",
-    "time": 3034,
-    "timeDay": 3034,
-    "timeWeek": 3034,
-    "timeMonth": 3034,
-    "timeYear": 3034,
-    "dailyMinutesDown": {
-      "2024-03-14": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2602,
+    "timeDay": 2602,
+    "timeWeek": 2602,
+    "timeMonth": 2602,
+    "timeYear": 2602,
+    "dailyMinutesDown": {}
   }
 ]
