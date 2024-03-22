@@ -22,18 +22,19 @@
     "url": "https://www.e-solat.gov.my/",
     "icon": "https://icons.duckduckgo.com/ip3/www.e-solat.gov.my.ico",
     "slug": "e-solat",
-    "status": "up",
-    "uptime": "97.54%",
+    "status": "down",
+    "uptime": "97.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.27%",
-    "uptimeMonth": "97.54%",
-    "uptimeYear": "97.54%",
+    "uptimeMonth": "97.56%",
+    "uptimeYear": "97.56%",
     "time": 2399,
     "timeDay": 2174,
     "timeWeek": 2352,
     "timeMonth": 2399,
     "timeYear": 2399,
     "dailyMinutesDown": {
+      "2024-03-22": 0,
       "2024-03-18": 275
     }
   }
