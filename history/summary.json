@@ -4,9 +4,9 @@
     "url": "https://mydq.islam.gov.my/",
     "icon": "https://icons.duckduckgo.com/ip3/mydq.islam.gov.my.ico",
     "slug": "jakim-my-dq",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1646,
     "timeMonth": 1579,
     "timeYear": 1579,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-25": 0
+    }
   },
   {
     "name": "E-solat",
@@ -23,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.e-solat.gov.my.ico",
     "slug": "e-solat",
     "status": "up",
-    "uptime": "97.75%",
+    "uptime": "97.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.54%",
-    "uptimeMonth": "97.75%",
-    "uptimeYear": "97.75%",
+    "uptimeWeek": "96.88%",
+    "uptimeMonth": "97.81%",
+    "uptimeYear": "97.81%",
     "time": 2839,
     "timeDay": 2241,
     "timeWeek": 2882,
