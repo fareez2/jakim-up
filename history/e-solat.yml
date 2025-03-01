@@ -1,7 +1,7 @@
 url: https://www.e-solat.gov.my/
-status: down
-code: 500
-responseTime: 6339
-lastUpdated: 2025-03-01T21:30:55.495Z
+status: up
+code: 200
+responseTime: 5953
+lastUpdated: 2025-03-01T21:50:35.917Z
 startTime: 2024-03-14T06:42:50.286Z
 generator: Upptime <https://github.com/upptime/upptime>
